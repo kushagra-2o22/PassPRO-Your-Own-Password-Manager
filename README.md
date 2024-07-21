@@ -28,9 +28,15 @@ The project is divided into two versions:
 
 ## Screenshots
 
-![Screenshot of PassPRO](./images/screenshot.png)
-![Screenshot of PassPRO](./images/screenshot.png)
+PC view:-
 
+
+![Screenshot of PassPRO](./screenshots/passpro3.png)
+
+Phone view:-
+
+
+<img src="screenshots/passpro.jpeg" alt="Alt text" width="300" height="600">
 
 ## Contributing
 
@@ -43,7 +49,7 @@ The project is divided into two versions:
 
 ## Contact
 
-Your Name - [kushagra.cs.singh@gmail.com](mailto:kushagra.cs.singh@gmail.com)
+Kushagra Singh - [kushagra.cs.singh@gmail.com](mailto:kushagra.cs.singh@gmail.com)
 
 Project Link: [https://github.com/kushagra-2o22/PassPRO-Your-Own-Password-Manager](https://github.com/kushagra-2o22/PassPRO-Your-Own-Password-Manager)
 
